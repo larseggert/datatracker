@@ -2746,7 +2746,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@vue/shared", "npm:3.3.4"],\
             ["estree-walker", "npm:2.0.2"],\
             ["magic-string", "npm:0.30.0"],\
-            ["postcss", "npm:8.4.12"],\
+            ["postcss", "npm:8.4.31"],\
             ["source-map-js", "npm:1.0.2"]\
           ],\
           "linkType": "HARD"\
@@ -7132,13 +7132,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["nanoid", [\
-        ["npm:3.3.3", {\
-          "packageLocation": "./.yarn/cache/nanoid-npm-3.3.3-25d865be84-ada019402a.zip/node_modules/nanoid/",\
-          "packageDependencies": [\
-            ["nanoid", "npm:3.3.3"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:3.3.6", {\
           "packageLocation": "./.yarn/cache/nanoid-npm-3.3.6-e6d6ae7e71-7d0eda6570.zip/node_modules/nanoid/",\
           "packageDependencies": [\
@@ -7670,20 +7663,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["postcss", [\
-        ["npm:8.4.12", {\
-          "packageLocation": "./.yarn/cache/postcss-npm-8.4.12-e941d78a98-248e3d0f9b.zip/node_modules/postcss/",\
+        ["npm:8.4.31", {\
+          "packageLocation": "./.yarn/cache/postcss-npm-8.4.31-385051a82b-1d8611341b.zip/node_modules/postcss/",\
           "packageDependencies": [\
-            ["postcss", "npm:8.4.12"],\
-            ["nanoid", "npm:3.3.3"],\
-            ["picocolors", "npm:1.0.0"],\
-            ["source-map-js", "npm:1.0.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
-        ["npm:8.4.27", {\
-          "packageLocation": "./.yarn/cache/postcss-npm-8.4.27-2a9f5f8f40-1cdd0c2988.zip/node_modules/postcss/",\
-          "packageDependencies": [\
-            ["postcss", "npm:8.4.27"],\
+            ["postcss", "npm:8.4.31"],\
             ["nanoid", "npm:3.3.6"],\
             ["picocolors", "npm:1.0.0"],\
             ["source-map-js", "npm:1.0.2"]\
@@ -9130,7 +9113,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["fsevents", "patch:fsevents@npm%3A2.3.2#~builtin<compat/fsevents>::version=2.3.2&hash=18f3a7"],\
             ["less", null],\
             ["lightningcss", null],\
-            ["postcss", "npm:8.4.27"],\
+            ["postcss", "npm:8.4.31"],\
             ["rollup", "npm:3.28.0"],\
             ["sass", "npm:1.69.4"],\
             ["stylus", null],\
