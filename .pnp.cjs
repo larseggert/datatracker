@@ -93,7 +93,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["slugify", "npm:1.6.6"],\
             ["sortablejs", "npm:1.15.0"],\
             ["vanillajs-datepicker", "npm:1.3.4"],\
-            ["vite", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:4.5.0"],\
+            ["vite", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:4.5.1"],\
             ["vue", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:3.3.7"],\
             ["vue-router", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:4.2.5"],\
             ["zxcvbn", "npm:4.4.2"]\
@@ -2706,7 +2706,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@vitejs/plugin-vue", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:4.4.0"],\
             ["@types/vite", null],\
             ["@types/vue", null],\
-            ["vite", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:4.5.0"],\
+            ["vite", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:4.5.1"],\
             ["vue", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:3.3.7"]\
           ],\
           "packagePeers": [\
@@ -8245,7 +8245,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["slugify", "npm:1.6.6"],\
             ["sortablejs", "npm:1.15.0"],\
             ["vanillajs-datepicker", "npm:1.3.4"],\
-            ["vite", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:4.5.0"],\
+            ["vite", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:4.5.1"],\
             ["vue", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:3.3.7"],\
             ["vue-router", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:4.2.5"],\
             ["zxcvbn", "npm:4.4.2"]\
@@ -9120,17 +9120,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["vite", [\
-        ["npm:4.5.0", {\
-          "packageLocation": "./.yarn/cache/vite-npm-4.5.0-6fb40946d7-06f1a4c858.zip/node_modules/vite/",\
+        ["npm:4.5.1", {\
+          "packageLocation": "./.yarn/cache/vite-npm-4.5.1-567bbcf9ff-72b3584b3d.zip/node_modules/vite/",\
           "packageDependencies": [\
-            ["vite", "npm:4.5.0"]\
+            ["vite", "npm:4.5.1"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:4.5.0", {\
-          "packageLocation": "./.yarn/__virtual__/vite-virtual-48c4f851a8/0/cache/vite-npm-4.5.0-6fb40946d7-06f1a4c858.zip/node_modules/vite/",\
+        ["virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:4.5.1", {\
+          "packageLocation": "./.yarn/__virtual__/vite-virtual-a00c7b893c/0/cache/vite-npm-4.5.1-567bbcf9ff-72b3584b3d.zip/node_modules/vite/",\
           "packageDependencies": [\
-            ["vite", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:4.5.0"],\
+            ["vite", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:4.5.1"],\
             ["@types/less", null],\
             ["@types/lightningcss", null],\
             ["@types/node", null],\
