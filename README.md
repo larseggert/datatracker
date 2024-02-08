@@ -9,6 +9,7 @@
 [![Django Version](https://img.shields.io/badge/django-4.x-51be95?logo=django&logoColor=white)](#prerequisites)
 [![Node Version](https://img.shields.io/badge/node.js-16.x-green?logo=node.js&logoColor=white)](#prerequisites)
 [![MariaDB Version](https://img.shields.io/badge/postgres-14-blue?logo=postgresql&logoColor=white)](#prerequisites)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flarseggert%2Fdatatracker.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flarseggert%2Fdatatracker?ref=badge_shield)
 
 ##### The day-to-day front-end to the IETF database for people who work on IETF standards.
 
@@ -293,3 +294,7 @@ npm run test:legacy
 ### Diff Tool
 
 To compare 2 different datatracker instances and look for diff, read the [diff tool instructions](dev/diff).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flarseggert%2Fdatatracker.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flarseggert%2Fdatatracker?ref=badge_large)
