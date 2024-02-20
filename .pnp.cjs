@@ -1010,13 +1010,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@msgpackr-extract/msgpackr-extract-darwin-arm64", [\
-        ["npm:2.0.2", {\
-          "packageLocation": "./.yarn/unplugged/@msgpackr-extract-msgpackr-extract-darwin-arm64-npm-2.0.2-be5249cbca/node_modules/@msgpackr-extract/msgpackr-extract-darwin-arm64/",\
-          "packageDependencies": [\
-            ["@msgpackr-extract/msgpackr-extract-darwin-arm64", "npm:2.0.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:3.0.2", {\
           "packageLocation": "./.yarn/unplugged/@msgpackr-extract-msgpackr-extract-darwin-arm64-npm-3.0.2-18ac236cc4/node_modules/@msgpackr-extract/msgpackr-extract-darwin-arm64/",\
           "packageDependencies": [\
@@ -1026,13 +1019,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@msgpackr-extract/msgpackr-extract-darwin-x64", [\
-        ["npm:2.0.2", {\
-          "packageLocation": "./.yarn/unplugged/@msgpackr-extract-msgpackr-extract-darwin-x64-npm-2.0.2-aaad2bbcdd/node_modules/@msgpackr-extract/msgpackr-extract-darwin-x64/",\
-          "packageDependencies": [\
-            ["@msgpackr-extract/msgpackr-extract-darwin-x64", "npm:2.0.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:3.0.2", {\
           "packageLocation": "./.yarn/unplugged/@msgpackr-extract-msgpackr-extract-darwin-x64-npm-3.0.2-39dd07082a/node_modules/@msgpackr-extract/msgpackr-extract-darwin-x64/",\
           "packageDependencies": [\
@@ -1042,13 +1028,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@msgpackr-extract/msgpackr-extract-linux-arm", [\
-        ["npm:2.0.2", {\
-          "packageLocation": "./.yarn/unplugged/@msgpackr-extract-msgpackr-extract-linux-arm-npm-2.0.2-bfe5ad30af/node_modules/@msgpackr-extract/msgpackr-extract-linux-arm/",\
-          "packageDependencies": [\
-            ["@msgpackr-extract/msgpackr-extract-linux-arm", "npm:2.0.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:3.0.2", {\
           "packageLocation": "./.yarn/unplugged/@msgpackr-extract-msgpackr-extract-linux-arm-npm-3.0.2-808a652e0b/node_modules/@msgpackr-extract/msgpackr-extract-linux-arm/",\
           "packageDependencies": [\
@@ -1058,13 +1037,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@msgpackr-extract/msgpackr-extract-linux-arm64", [\
-        ["npm:2.0.2", {\
-          "packageLocation": "./.yarn/unplugged/@msgpackr-extract-msgpackr-extract-linux-arm64-npm-2.0.2-73fc5b0175/node_modules/@msgpackr-extract/msgpackr-extract-linux-arm64/",\
-          "packageDependencies": [\
-            ["@msgpackr-extract/msgpackr-extract-linux-arm64", "npm:2.0.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:3.0.2", {\
           "packageLocation": "./.yarn/unplugged/@msgpackr-extract-msgpackr-extract-linux-arm64-npm-3.0.2-cfbf50d4c6/node_modules/@msgpackr-extract/msgpackr-extract-linux-arm64/",\
           "packageDependencies": [\
@@ -1074,13 +1046,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@msgpackr-extract/msgpackr-extract-linux-x64", [\
-        ["npm:2.0.2", {\
-          "packageLocation": "./.yarn/unplugged/@msgpackr-extract-msgpackr-extract-linux-x64-npm-2.0.2-028869dc6b/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/",\
-          "packageDependencies": [\
-            ["@msgpackr-extract/msgpackr-extract-linux-x64", "npm:2.0.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:3.0.2", {\
           "packageLocation": "./.yarn/unplugged/@msgpackr-extract-msgpackr-extract-linux-x64-npm-3.0.2-262fca760d/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/",\
           "packageDependencies": [\
@@ -1090,13 +1055,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@msgpackr-extract/msgpackr-extract-win32-x64", [\
-        ["npm:2.0.2", {\
-          "packageLocation": "./.yarn/unplugged/@msgpackr-extract-msgpackr-extract-win32-x64-npm-2.0.2-c54981be26/node_modules/@msgpackr-extract/msgpackr-extract-win32-x64/",\
-          "packageDependencies": [\
-            ["@msgpackr-extract/msgpackr-extract-win32-x64", "npm:2.0.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:3.0.2", {\
           "packageLocation": "./.yarn/unplugged/@msgpackr-extract-msgpackr-extract-win32-x64-npm-3.0.2-c627beab89/node_modules/@msgpackr-extract/msgpackr-extract-win32-x64/",\
           "packageDependencies": [\
@@ -1142,7 +1100,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@npmcli/fs", "npm:2.1.0"],\
             ["@gar/promisify", "npm:1.1.3"],\
-            ["semver", "npm:7.3.7"]\
+            ["semver", "npm:7.5.4"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -1377,9 +1335,9 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["dotenv", "npm:7.0.0"],\
             ["dotenv-expand", "npm:5.1.0"],\
             ["json5", "npm:2.2.1"],\
-            ["msgpackr", "npm:1.6.0"],\
+            ["msgpackr", "npm:1.10.1"],\
             ["nullthrows", "npm:1.1.1"],\
-            ["semver", "npm:5.7.1"]\
+            ["semver", "npm:5.7.2"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -1760,7 +1718,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@parcel/utils", "npm:2.6.2"],\
             ["@parcel/workers", "virtual:aa1797faca4a934b86d07dfa52e0db4db288b85fed415e745782ef9bd4bd39771970f9017a79cb7ed092d23d2539cea12a1cec949dfa0bb86e0fda2290caa70e#npm:2.6.2"],\
             ["@types/parcel__core", null],\
-            ["semver", "npm:5.7.1"]\
+            ["semver", "npm:5.7.2"]\
           ],\
           "packagePeers": [\
             "@types/parcel__core"\
@@ -3353,7 +3311,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/builtins-npm-5.0.1-6d4820dd76-66d204657f.zip/node_modules/builtins/",\
           "packageDependencies": [\
             ["builtins", "npm:5.0.1"],\
-            ["semver", "npm:7.3.7"]\
+            ["semver", "npm:7.5.4"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -4982,7 +4940,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["is-core-module", "npm:2.12.1"],\
             ["minimatch", "npm:3.1.2"],\
             ["resolve", "patch:resolve@npm%3A1.22.3#~builtin<compat/resolve>::version=1.22.3&hash=07638b"],\
-            ["semver", "npm:7.5.3"]\
+            ["semver", "npm:7.5.4"]\
           ],\
           "packagePeers": [\
             "@types/eslint",\
@@ -5010,7 +4968,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["ignore", "npm:5.2.0"],\
             ["minimatch", "npm:3.1.2"],\
             ["resolve", "patch:resolve@npm%3A1.22.0#~builtin<compat/resolve>::version=1.22.0&hash=07638b"],\
-            ["semver", "npm:6.3.0"]\
+            ["semver", "npm:6.3.1"]\
           ],\
           "packagePeers": [\
             "@types/eslint",\
@@ -5803,7 +5761,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["kleur", "npm:4.1.4"],\
             ["minimist", "npm:1.2.6"],\
             ["prompts", "npm:2.4.2"],\
-            ["semver", "npm:7.3.7"],\
+            ["semver", "npm:7.5.4"],\
             ["vitest", null]\
           ],\
           "packagePeers": [\
@@ -6072,10 +6030,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["ip", [\
-        ["npm:1.1.8", {\
-          "packageLocation": "./.yarn/cache/ip-npm-1.1.8-abea558b72-a2ade53eb3.zip/node_modules/ip/",\
+        ["npm:1.1.9", {\
+          "packageLocation": "./.yarn/cache/ip-npm-1.1.9-e72dd3cc0a-b6d91fd45a.zip/node_modules/ip/",\
           "packageDependencies": [\
-            ["ip", "npm:1.1.8"]\
+            ["ip", "npm:1.1.9"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -6745,7 +6703,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@lmdb/lmdb-linux-arm64", "npm:2.5.2"],\
             ["@lmdb/lmdb-linux-x64", "npm:2.5.2"],\
             ["@lmdb/lmdb-win32-x64", "npm:2.5.2"],\
-            ["msgpackr", "npm:1.6.0"],\
+            ["msgpackr", "npm:1.10.1"],\
             ["node-addon-api", "npm:4.3.0"],\
             ["node-gyp", "npm:9.0.0"],\
             ["node-gyp-build-optional-packages", "npm:5.0.3"],\
@@ -6764,7 +6722,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@lmdb/lmdb-linux-arm64", "npm:2.8.5"],\
             ["@lmdb/lmdb-linux-x64", "npm:2.8.5"],\
             ["@lmdb/lmdb-win32-x64", "npm:2.8.5"],\
-            ["msgpackr", "npm:1.9.9"],\
+            ["msgpackr", "npm:1.10.1"],\
             ["node-addon-api", "npm:6.1.0"],\
             ["node-gyp", "npm:9.0.0"],\
             ["node-gyp-build-optional-packages", "npm:5.1.1"],\
@@ -6859,7 +6817,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/make-dir-npm-3.1.0-d1d7505142-484200020a.zip/node_modules/make-dir/",\
           "packageDependencies": [\
             ["make-dir", "npm:3.1.0"],\
-            ["semver", "npm:6.3.0"]\
+            ["semver", "npm:6.3.1"]\
           ],\
           "linkType": "HARD"\
         }],\
@@ -6867,7 +6825,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/make-dir-npm-4.0.0-ec3cd921cc-bf0731a2dd.zip/node_modules/make-dir/",\
           "packageDependencies": [\
             ["make-dir", "npm:4.0.0"],\
-            ["semver", "npm:7.5.3"]\
+            ["semver", "npm:7.5.4"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -7104,40 +7062,9 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["msgpackr-extract", "npm:3.0.2"]\
           ],\
           "linkType": "HARD"\
-        }],\
-        ["npm:1.6.0", {\
-          "packageLocation": "./.yarn/cache/msgpackr-npm-1.6.0-de9303a46e-7f94acbe93.zip/node_modules/msgpackr/",\
-          "packageDependencies": [\
-            ["msgpackr", "npm:1.6.0"],\
-            ["msgpackr-extract", "npm:2.0.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
-        ["npm:1.9.9", {\
-          "packageLocation": "./.yarn/cache/msgpackr-npm-1.9.9-75b366d55f-b63182d99f.zip/node_modules/msgpackr/",\
-          "packageDependencies": [\
-            ["msgpackr", "npm:1.9.9"],\
-            ["msgpackr-extract", "npm:3.0.2"]\
-          ],\
-          "linkType": "HARD"\
         }]\
       ]],\
       ["msgpackr-extract", [\
-        ["npm:2.0.2", {\
-          "packageLocation": "./.yarn/unplugged/msgpackr-extract-npm-2.0.2-27402474ca/node_modules/msgpackr-extract/",\
-          "packageDependencies": [\
-            ["msgpackr-extract", "npm:2.0.2"],\
-            ["@msgpackr-extract/msgpackr-extract-darwin-arm64", "npm:2.0.2"],\
-            ["@msgpackr-extract/msgpackr-extract-darwin-x64", "npm:2.0.2"],\
-            ["@msgpackr-extract/msgpackr-extract-linux-arm", "npm:2.0.2"],\
-            ["@msgpackr-extract/msgpackr-extract-linux-arm64", "npm:2.0.2"],\
-            ["@msgpackr-extract/msgpackr-extract-linux-x64", "npm:2.0.2"],\
-            ["@msgpackr-extract/msgpackr-extract-win32-x64", "npm:2.0.2"],\
-            ["node-gyp", "npm:9.0.0"],\
-            ["node-gyp-build-optional-packages", "npm:5.0.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:3.0.2", {\
           "packageLocation": "./.yarn/unplugged/msgpackr-extract-npm-3.0.2-93e8773fad/node_modules/msgpackr-extract/",\
           "packageDependencies": [\
@@ -7269,7 +7196,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["nopt", "npm:5.0.0"],\
             ["npmlog", "npm:6.0.2"],\
             ["rimraf", "npm:3.0.2"],\
-            ["semver", "npm:7.3.7"],\
+            ["semver", "npm:7.5.4"],\
             ["tar", "npm:6.1.11"],\
             ["which", "npm:2.0.2"]\
           ],\
@@ -7286,13 +7213,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["node-gyp-build-optional-packages", [\
-        ["npm:5.0.2", {\
-          "packageLocation": "./.yarn/cache/node-gyp-build-optional-packages-npm-5.0.2-2917525a31-6fca33cd1e.zip/node_modules/node-gyp-build-optional-packages/",\
-          "packageDependencies": [\
-            ["node-gyp-build-optional-packages", "npm:5.0.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:5.0.3", {\
           "packageLocation": "./.yarn/cache/node-gyp-build-optional-packages-npm-5.0.3-50b9c76481-be3f023592.zip/node_modules/node-gyp-build-optional-packages/",\
           "packageDependencies": [\
@@ -8449,17 +8369,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["semver", [\
-        ["npm:5.7.1", {\
-          "packageLocation": "./.yarn/cache/semver-npm-5.7.1-40bcea106b-57fd0acfd0.zip/node_modules/semver/",\
+        ["npm:5.7.2", {\
+          "packageLocation": "./.yarn/cache/semver-npm-5.7.2-938ee91eaa-fb4ab5e0dd.zip/node_modules/semver/",\
           "packageDependencies": [\
-            ["semver", "npm:5.7.1"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
-        ["npm:6.3.0", {\
-          "packageLocation": "./.yarn/cache/semver-npm-6.3.0-b3eace8bfd-1b26ecf6db.zip/node_modules/semver/",\
-          "packageDependencies": [\
-            ["semver", "npm:6.3.0"]\
+            ["semver", "npm:5.7.2"]\
           ],\
           "linkType": "HARD"\
         }],\
@@ -8467,22 +8380,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/semver-npm-6.3.1-bcba31fdbe-ae47d06de2.zip/node_modules/semver/",\
           "packageDependencies": [\
             ["semver", "npm:6.3.1"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
-        ["npm:7.3.7", {\
-          "packageLocation": "./.yarn/cache/semver-npm-7.3.7-3bfe704194-2fa3e87756.zip/node_modules/semver/",\
-          "packageDependencies": [\
-            ["semver", "npm:7.3.7"],\
-            ["lru-cache", "npm:6.0.0"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
-        ["npm:7.5.3", {\
-          "packageLocation": "./.yarn/cache/semver-npm-7.5.3-275095dbf3-9d58db1652.zip/node_modules/semver/",\
-          "packageDependencies": [\
-            ["semver", "npm:7.5.3"],\
-            ["lru-cache", "npm:6.0.0"]\
           ],\
           "linkType": "HARD"\
         }],\
@@ -8650,7 +8547,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/socks-npm-2.6.2-94c1dcb8b8-dd91942930.zip/node_modules/socks/",\
           "packageDependencies": [\
             ["socks", "npm:2.6.2"],\
-            ["ip", "npm:1.1.8"],\
+            ["ip", "npm:1.1.9"],\
             ["smart-buffer", "npm:4.2.0"]\
           ],\
           "linkType": "HARD"\
@@ -9362,7 +9259,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["espree", "npm:9.3.2"],\
             ["esquery", "npm:1.4.0"],\
             ["lodash", "npm:4.17.21"],\
-            ["semver", "npm:7.3.7"]\
+            ["semver", "npm:7.5.4"]\
           ],\
           "packagePeers": [\
             "@types/eslint",\
