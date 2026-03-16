@@ -1011,13 +1011,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@msgpackr-extract/msgpackr-extract-darwin-arm64", [\
-        ["npm:2.0.2", {\
-          "packageLocation": "./.yarn/unplugged/@msgpackr-extract-msgpackr-extract-darwin-arm64-npm-2.0.2-be5249cbca/node_modules/@msgpackr-extract/msgpackr-extract-darwin-arm64/",\
-          "packageDependencies": [\
-            ["@msgpackr-extract/msgpackr-extract-darwin-arm64", "npm:2.0.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:3.0.2", {\
           "packageLocation": "./.yarn/unplugged/@msgpackr-extract-msgpackr-extract-darwin-arm64-npm-3.0.2-18ac236cc4/node_modules/@msgpackr-extract/msgpackr-extract-darwin-arm64/",\
           "packageDependencies": [\
@@ -1027,13 +1020,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@msgpackr-extract/msgpackr-extract-darwin-x64", [\
-        ["npm:2.0.2", {\
-          "packageLocation": "./.yarn/unplugged/@msgpackr-extract-msgpackr-extract-darwin-x64-npm-2.0.2-aaad2bbcdd/node_modules/@msgpackr-extract/msgpackr-extract-darwin-x64/",\
-          "packageDependencies": [\
-            ["@msgpackr-extract/msgpackr-extract-darwin-x64", "npm:2.0.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:3.0.2", {\
           "packageLocation": "./.yarn/unplugged/@msgpackr-extract-msgpackr-extract-darwin-x64-npm-3.0.2-39dd07082a/node_modules/@msgpackr-extract/msgpackr-extract-darwin-x64/",\
           "packageDependencies": [\
@@ -1043,13 +1029,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@msgpackr-extract/msgpackr-extract-linux-arm", [\
-        ["npm:2.0.2", {\
-          "packageLocation": "./.yarn/unplugged/@msgpackr-extract-msgpackr-extract-linux-arm-npm-2.0.2-bfe5ad30af/node_modules/@msgpackr-extract/msgpackr-extract-linux-arm/",\
-          "packageDependencies": [\
-            ["@msgpackr-extract/msgpackr-extract-linux-arm", "npm:2.0.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:3.0.2", {\
           "packageLocation": "./.yarn/unplugged/@msgpackr-extract-msgpackr-extract-linux-arm-npm-3.0.2-808a652e0b/node_modules/@msgpackr-extract/msgpackr-extract-linux-arm/",\
           "packageDependencies": [\
@@ -1059,13 +1038,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@msgpackr-extract/msgpackr-extract-linux-arm64", [\
-        ["npm:2.0.2", {\
-          "packageLocation": "./.yarn/unplugged/@msgpackr-extract-msgpackr-extract-linux-arm64-npm-2.0.2-73fc5b0175/node_modules/@msgpackr-extract/msgpackr-extract-linux-arm64/",\
-          "packageDependencies": [\
-            ["@msgpackr-extract/msgpackr-extract-linux-arm64", "npm:2.0.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:3.0.2", {\
           "packageLocation": "./.yarn/unplugged/@msgpackr-extract-msgpackr-extract-linux-arm64-npm-3.0.2-cfbf50d4c6/node_modules/@msgpackr-extract/msgpackr-extract-linux-arm64/",\
           "packageDependencies": [\
@@ -1075,13 +1047,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@msgpackr-extract/msgpackr-extract-linux-x64", [\
-        ["npm:2.0.2", {\
-          "packageLocation": "./.yarn/unplugged/@msgpackr-extract-msgpackr-extract-linux-x64-npm-2.0.2-028869dc6b/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/",\
-          "packageDependencies": [\
-            ["@msgpackr-extract/msgpackr-extract-linux-x64", "npm:2.0.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:3.0.2", {\
           "packageLocation": "./.yarn/unplugged/@msgpackr-extract-msgpackr-extract-linux-x64-npm-3.0.2-262fca760d/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/",\
           "packageDependencies": [\
@@ -1091,13 +1056,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@msgpackr-extract/msgpackr-extract-win32-x64", [\
-        ["npm:2.0.2", {\
-          "packageLocation": "./.yarn/unplugged/@msgpackr-extract-msgpackr-extract-win32-x64-npm-2.0.2-c54981be26/node_modules/@msgpackr-extract/msgpackr-extract-win32-x64/",\
-          "packageDependencies": [\
-            ["@msgpackr-extract/msgpackr-extract-win32-x64", "npm:2.0.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:3.0.2", {\
           "packageLocation": "./.yarn/unplugged/@msgpackr-extract-msgpackr-extract-win32-x64-npm-3.0.2-c627beab89/node_modules/@msgpackr-extract/msgpackr-extract-win32-x64/",\
           "packageDependencies": [\
@@ -1378,7 +1336,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["dotenv", "npm:7.0.0"],\
             ["dotenv-expand", "npm:5.1.0"],\
             ["json5", "npm:2.2.1"],\
-            ["msgpackr", "npm:1.6.0"],\
+            ["msgpackr", "npm:1.10.1"],\
             ["nullthrows", "npm:1.1.1"],\
             ["semver", "npm:5.7.1"]\
           ],\
@@ -6799,7 +6757,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@lmdb/lmdb-linux-arm64", "npm:2.5.2"],\
             ["@lmdb/lmdb-linux-x64", "npm:2.5.2"],\
             ["@lmdb/lmdb-win32-x64", "npm:2.5.2"],\
-            ["msgpackr", "npm:1.6.0"],\
+            ["msgpackr", "npm:1.10.1"],\
             ["node-addon-api", "npm:4.3.0"],\
             ["node-gyp", "npm:9.0.0"],\
             ["node-gyp-build-optional-packages", "npm:5.0.3"],\
@@ -6818,7 +6776,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@lmdb/lmdb-linux-arm64", "npm:2.8.5"],\
             ["@lmdb/lmdb-linux-x64", "npm:2.8.5"],\
             ["@lmdb/lmdb-win32-x64", "npm:2.8.5"],\
-            ["msgpackr", "npm:1.9.9"],\
+            ["msgpackr", "npm:1.10.1"],\
             ["node-addon-api", "npm:6.1.0"],\
             ["node-gyp", "npm:9.0.0"],\
             ["node-gyp-build-optional-packages", "npm:5.1.1"],\
@@ -7158,40 +7116,9 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["msgpackr-extract", "npm:3.0.2"]\
           ],\
           "linkType": "HARD"\
-        }],\
-        ["npm:1.6.0", {\
-          "packageLocation": "./.yarn/cache/msgpackr-npm-1.6.0-de9303a46e-7f94acbe93.zip/node_modules/msgpackr/",\
-          "packageDependencies": [\
-            ["msgpackr", "npm:1.6.0"],\
-            ["msgpackr-extract", "npm:2.0.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
-        ["npm:1.9.9", {\
-          "packageLocation": "./.yarn/cache/msgpackr-npm-1.9.9-75b366d55f-b63182d99f.zip/node_modules/msgpackr/",\
-          "packageDependencies": [\
-            ["msgpackr", "npm:1.9.9"],\
-            ["msgpackr-extract", "npm:3.0.2"]\
-          ],\
-          "linkType": "HARD"\
         }]\
       ]],\
       ["msgpackr-extract", [\
-        ["npm:2.0.2", {\
-          "packageLocation": "./.yarn/unplugged/msgpackr-extract-npm-2.0.2-27402474ca/node_modules/msgpackr-extract/",\
-          "packageDependencies": [\
-            ["msgpackr-extract", "npm:2.0.2"],\
-            ["@msgpackr-extract/msgpackr-extract-darwin-arm64", "npm:2.0.2"],\
-            ["@msgpackr-extract/msgpackr-extract-darwin-x64", "npm:2.0.2"],\
-            ["@msgpackr-extract/msgpackr-extract-linux-arm", "npm:2.0.2"],\
-            ["@msgpackr-extract/msgpackr-extract-linux-arm64", "npm:2.0.2"],\
-            ["@msgpackr-extract/msgpackr-extract-linux-x64", "npm:2.0.2"],\
-            ["@msgpackr-extract/msgpackr-extract-win32-x64", "npm:2.0.2"],\
-            ["node-gyp", "npm:9.0.0"],\
-            ["node-gyp-build-optional-packages", "npm:5.0.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:3.0.2", {\
           "packageLocation": "./.yarn/unplugged/msgpackr-extract-npm-3.0.2-93e8773fad/node_modules/msgpackr-extract/",\
           "packageDependencies": [\
@@ -7349,13 +7276,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["node-gyp-build-optional-packages", [\
-        ["npm:5.0.2", {\
-          "packageLocation": "./.yarn/cache/node-gyp-build-optional-packages-npm-5.0.2-2917525a31-6fca33cd1e.zip/node_modules/node-gyp-build-optional-packages/",\
-          "packageDependencies": [\
-            ["node-gyp-build-optional-packages", "npm:5.0.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:5.0.3", {\
           "packageLocation": "./.yarn/cache/node-gyp-build-optional-packages-npm-5.0.3-50b9c76481-be3f023592.zip/node_modules/node-gyp-build-optional-packages/",\
           "packageDependencies": [\
